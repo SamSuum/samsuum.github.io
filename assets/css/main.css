@@ -768,7 +768,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width:50%;
 		}
 
 		.row > .off-4 {
@@ -2199,13 +2199,13 @@ input, select, textarea {
 	}
 
 	header.major {
-		margin: 5em 0 5em 0;
+		margin: 2em 0 5em 0;
 		position: relative;
 		text-align: center;
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: #ffffff;
 			content: '';
 			display: inline-block;
 			height: 0.1em;
